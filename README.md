@@ -223,7 +223,7 @@ Client → Retrieve Consultation → Decrypt Response → View Answer
 
 ### Watch the Platform in Action
 
-[![Demo Video](Demo Video.mp4)
+[![Demo Video](AnonymousLegalConsultation.mp4)
 
 **Video Highlights:**
 - 00:00 - Platform overview and wallet connection
